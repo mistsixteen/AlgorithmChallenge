@@ -1,4 +1,4 @@
 # Algorithm
 repository for Coding challenge / Alogrithm testing
 
-Backjoon : https://solved.ac/profile/mist16
+Backjoon Solved.ac : https://solved.ac/profile/mist16
