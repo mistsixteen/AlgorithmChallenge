@@ -1,4 +1,8 @@
 # Algorithm
-repository for Coding challenge / Alogrithm testing
+repository for Coding Challenge
 
-Backjoon Solved.ac : https://solved.ac/profile/mist16
+Backjoon Solved.ac Account : https://solved.ac/profile/mist16
+
+Backjoon : Backjoon Solved Problems
+CodeForces : CodeForces Contest
+Programmers : Programmers.co.kr Solved Problems
